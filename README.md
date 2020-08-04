@@ -7,7 +7,7 @@ Amo resolver problemas com soluções crativas, busco sempre tecnologias inovado
 <br/>Sou um FullStack Developer :computer:
 
  🔎  &nbsp; Procurando por oportunidades
- <br/> 📚 &nbsp; Aprendendo **Back-End** com C#, JS, C++ e Python | **Front-End** com React e CSS!
+ <br/> 📚 &nbsp; Aprendendo **Back-End** com C#, JS e C++ | **Front-End** com React e CSS!
  <br/> 😉 &nbsp; Posso ajudar com **tratamento de dados** em Python, **design e responsividade** com CSS e **back-end** em C#! 
  <br/> :computer: &nbsp; Também posso ser útil em desenvolvimento de jogos com **Unity**!
  <br/> 💬  &nbsp; Sobre mim: Inovar é o meu lema, estou sempre procurando por stacks novas no mercado, quando não estou fazendo isso, muito provavelmente estou jogando LoL ou curtindo filmes e seriados na Netflix 😁
