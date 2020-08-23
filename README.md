@@ -1,8 +1,6 @@
-<img width="auto" src="https://plantrustler.com/wp-content/uploads/2018/06/software-banner.jpg">
-
 # Matheus Silva
 
-## Olá! 😃 
+# Olá, sou um programador!
 Amo resolver problemas com soluções crativas, busco sempre tecnologias inovadoras, rápidas e funcionais para toda a equipe! 
 <br/>Sou um FullStack Developer :computer:
 
