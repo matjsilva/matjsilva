@@ -1,14 +1,12 @@
-# Matheus Silva
+# Me chamo Matheus e sou apaixonado por ciência da computação :)
+É tudo culpa do café.
 
-# Olá, sou um programador!
-Amo resolver problemas com soluções crativas, busco sempre tecnologias inovadoras, rápidas e funcionais para toda a equipe! 
-<br/>Sou um FullStack Developer :computer:
+Atualmente estou aprendendo uma variedade de linguagens e tendo contato com diversas APIs/frameworks, têm sido uma experiência muito boa.
+Nas horas vagas desenvolvo projetos grandes ou pequenos, é assim que aprendo, na prática.<br>
+Gosto de coisas simples, minimalismo é a minha religião.
 
- 🔎  &nbsp; Procurando por oportunidades
- <br/> 📚 &nbsp; Aprendendo **Back-End** com C#, JS e C++ | **Front-End** com React e CSS!
- <br/> 😉 &nbsp; Posso ajudar com **tratamento de dados** em Python, **design e responsividade** com CSS e **back-end** em C#! 
- <br/> :computer: &nbsp; Também posso ser útil em desenvolvimento de jogos com **Unity**!
- <br/> 💬  &nbsp; Sobre mim: Inovar é o meu lema, estou sempre procurando por stacks novas no mercado, quando não estou fazendo isso, muito provavelmente estou jogando LoL ou curtindo filmes e seriados na Netflix 😁
- <br/> :email: &nbsp; Caso queria entrar em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-MatheusSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-2b14831b4/)](https://www.linkedin.com/in/matheus-silva-2b14831b4/) 
+*"We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt."*
+
+[![Linkedin Badge](https://img.shields.io/badge/-MatheusSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-2b14831b4/)](https://www.linkedin.com/in/matheus-silva-2b14831b4/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-matheusjgsilva42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjgsilva42@gmail.com)](mailto:matheusjgsilva42@gmail.com)
