@@ -5,7 +5,7 @@ Atualmente estou aprendendo uma variedade de linguagens e tendo contato com dive
 Nas horas vagas desenvolvo projetos grandes ou pequenos, é assim que aprendo, na prática.<br>
 Gosto de coisas simples, minimalismo é a minha religião.
 
-*"We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt."*
+*“Quiet people have the loudest minds.”*
 
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-2b14831b4/)](https://www.linkedin.com/in/matheus-silva-2b14831b4/) 
 | 
