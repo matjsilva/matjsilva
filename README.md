@@ -11,4 +11,4 @@ Gosto de coisas simples, minimalismo é a minha religião.
 | 
 [![Gmail Badge](https://img.shields.io/badge/-matheusjgsilva42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjgsilva42@gmail.com)](mailto:matheusjgsilva42@gmail.com)
 
-[![Kata Badge](https://www.codewars.com/users/matjs/badges/large)]
+[Kata Badge](https://www.codewars.com/users/matjs/badges/large)
