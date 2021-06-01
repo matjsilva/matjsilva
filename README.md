@@ -1,4 +1,4 @@
-# Me chamo Matheus e sou apaixonado por ciência da computação :)
+# Matheus Silva
 É tudo culpa do café.
 
 Atualmente estou aprendendo uma variedade de linguagens e tendo contato com diversas APIs/frameworks, têm sido uma experiência muito boa.
