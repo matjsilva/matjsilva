@@ -5,7 +5,7 @@ Atualmente estou aprendendo uma variedade de linguagens e tendo contato com dive
 Nas horas vagas desenvolvo projetos grandes ou pequenos, é assim que aprendo, na prática.<br>
 Gosto de coisas simples, minimalismo é a minha religião.
 
-*“Quiet people have the loudest minds.”*
+*“Quiet people have the loudest minds.”* - Stephen Hawking
 
 [![Linkedin Badge](https://img.shields.io/badge/-MatheusSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-silva-2b14831b4/)](https://www.linkedin.com/in/matheus-silva-2b14831b4/) 
 | 
