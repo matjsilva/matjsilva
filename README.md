@@ -15,6 +15,4 @@ Gosto de coisas simples, minimalismo é a minha religião.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matjsilva&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=matjsilva&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matjsilva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
