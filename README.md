@@ -11,8 +11,6 @@ Gosto de coisas simples, minimalismo é a minha religião.
 | 
 [![Gmail Badge](https://img.shields.io/badge/-matheusjgsilva42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusjgsilva42@gmail.com)](mailto:matheusjgsilva42@gmail.com)
 |
-![Kata Badge](https://www.codewars.com/users/matjs/badges/small)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matjsilva&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+![Kata Badge](https://www.codewars.com/users/matjs/badges/small) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matjsilva&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
