@@ -1,7 +1,7 @@
 # Matheus Silva
 ![Coffee](https://img.shields.io/badge/%C3%89%20tudo%20culpa-do%20caf%C3%A9-brown?style=for-the-badge)
 '
-![Codingame](https://img.shields.io/badge/Codingame%20Rank-13,726-yellow?style=for-the-badge)
+![Codingame](https://img.shields.io/badge/Codingame%20Rank-12,669-yellow?style=for-the-badge)
 '
 ![Kata Badge](https://www.codewars.com/users/matjs/badges/micro) 
 
